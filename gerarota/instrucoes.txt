@@ -1,0 +1,8 @@
+1 - Informar nome do arquivo onde serão salvas as posições.
+
+2 - Marcar pontos de uma rota (não há como excluir pontos, então precisa de uma certa atenção).
+
+3 - clicar em gerar rota.
+
+4 - o arquivo estará salvo no diretorio raiz/controller/json/nome_doarquivo.json 
+
